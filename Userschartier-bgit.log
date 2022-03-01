@@ -1,0 +1,5 @@
+14:04:31.780134 exec-cmd.c:237          trace: resolved executable dir: C:/Program Files/Git/mingw64/bin
+14:04:32.972333 exec-cmd.c:237          trace: resolved executable dir: C:/Program Files/Git/mingw64/bin
+14:04:32.976649 git.c:440               trace: built-in: git rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+15:26:18.656951 exec-cmd.c:237          trace: resolved executable dir: C:/Program Files/Git/mingw64/bin
+15:26:18.657991 git.c:440               trace: built-in: git rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
